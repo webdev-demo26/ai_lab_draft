@@ -412,6 +412,7 @@ img {
   color: var(--muted);
   font-size: 0.95rem;
   line-height: 1.9;
+  text-align: justify;
 }
 
 .welcome-points {
