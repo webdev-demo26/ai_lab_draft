@@ -92,13 +92,13 @@ $meta_description = "";
 
                     <img
                         class="welcome-main-img"
-                        src="https://images.unsplash.com/photo-1579154204601-01588f351e67?auto=format&fit=crop&w=1100&q=85"
+                        src="assets/img/AI-Powered Biotech Laboratory.png"
                         alt="Scientist working with laboratory equipment"
                         loading="lazy">
 
                     <img
                         class="welcome-small-img"
-                        src="https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?auto=format&fit=crop&w=700&q=85"
+                        src="assets/img/AI-Powered Biotech Laboratory.png"
                         alt="Scientific laboratory research"
                         loading="lazy">
 
