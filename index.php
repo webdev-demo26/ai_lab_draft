@@ -46,7 +46,7 @@ $meta_description = "";
                         </div>
                         <div class="hero-detail">
                             <i class="fa-solid fa-location-dot"></i>
-                            Hong Kong
+                            Kyushu Institute of Technology (Kyutech) ,  Japan
                         </div>
                     </div>
 
@@ -55,7 +55,7 @@ $meta_description = "";
                         intelligent laboratory systems, laboratory robotics,
                         next-generation therapeutics, and advanced biological
                         manufacturing at an international scientific meeting
-                        in Hong Kong.
+                        in Japan.
                     </p>
 
                     <div class="hero-buttons">
@@ -81,6 +81,114 @@ $meta_description = "";
         </div>
     </div>
 </section>
+
+
+
+
+
+
+<!-- Conference Leadership Section -->
+<section class="chair-section py-5">
+    <div class="container">
+
+        <div class="text-center mb-5">
+            <span class="chair-kicker">LEADERSHIP</span>
+            <h2 class="chair-heading">Conference Leadership</h2>
+            <p class="text-muted">AI and Lab Automation Conference 2027</p>
+        </div>
+
+        <div class="row g-4 justify-content-center">
+
+            <!-- Conference Chair -->
+            <div class="col-lg-6 col-md-6">
+                <div class="chair-profile-card h-100">
+                    <div class="row g-0 align-items-center h-100">
+
+                        <div class="col-md-5">
+                            <div class="chair-image-wrap">
+                                <img src="assets/img/Hyo.jpg"
+                                     alt="Prof. Hyo-Il Jung"
+                                     class="chair-image">
+                            </div>
+                        </div>
+
+                        <div class="col-md-7">
+                            <div class="chair-content">
+                                <span class="chair-label">
+                                    <i class="bi bi-award-fill"></i>
+                                    CONFERENCE CHAIR
+                                </span>
+
+                                <h3>Prof. Hyo-Il Jung</h3>
+
+                                <div class="chair-divider"></div>
+
+                                <p class="chair-designation">
+                                    School of Mechanical Engineering
+                                </p>
+
+                                <p class="chair-institution">
+                                    Yonsei University
+                                </p>
+
+                                <span class="chair-country">
+                                    <i class="bi bi-geo-alt-fill"></i>
+                                    South Korea
+                                </span>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+
+            <!-- Conference Co-Chair -->
+            <div class="col-lg-6 col-md-6">
+                <div class="chair-profile-card h-100">
+                    <div class="row g-0 align-items-center h-100">
+
+                        <div class="col-md-5">
+                            <div class="chair-image-wrap">
+                                <img src="assets/img/no-image.jpg"
+                                     alt="Prof. KAMIYA Tohru"
+                                     class="chair-image">
+                            </div>
+                        </div>
+
+                        <div class="col-md-7">
+                            <div class="chair-content">
+                                <span class="chair-label">
+                                    <i class="bi bi-award-fill"></i>
+                                    CONFERENCE CO-CHAIR
+                                </span>
+
+                                <h3>Prof. KAMIYA Tohru</h3>
+
+                                <div class="chair-divider"></div>
+
+                                <p class="chair-designation">
+                                    Faculty of Engineering
+                                </p>
+
+                                <p class="chair-institution">
+                                    Department of Mechanical and Control Engineering
+                                </p>
+
+                                <span class="chair-country">
+                                    <i class="bi bi-geo-alt-fill"></i>
+                                    Japan
+                                </span>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</section>
+
 
 <!-- WELCOME -->
 <section class="section-pad section-white" id="welcome">
@@ -583,7 +691,7 @@ $meta_description = "";
 
                 <p>
                     Join researchers, engineers, biotechnology professionals,
-                    and technology innovators in Hong Kong for the AI and Lab
+                    and technology innovators in Japan for the AI and Lab
                     Automation Conference 2027, October 6-8, 2027.
                 </p>
             </div>
