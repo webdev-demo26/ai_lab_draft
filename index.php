@@ -204,11 +204,11 @@ $meta_description = "";
                         alt="Scientist working with laboratory equipment"
                         loading="lazy">
 
-                    <img
+                    <!-- <img
                         class="welcome-small-img"
                         src="assets/img/AI-Powered Biotech Laboratory.png"
                         alt="Scientific laboratory research"
-                        loading="lazy">
+                        loading="lazy"> -->
 
                     <div class="welcome-badge">
                         <i class="fa-solid fa-atom"></i>

@@ -98,7 +98,7 @@
 
                 <div class="footer-detail">
                     <i class="fa-solid fa-location-dot"></i>
-                    <span>Hong Kong</span>
+                    <span>Japan</span>
                 </div>
 
                 <div class="footer-detail">
