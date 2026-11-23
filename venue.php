@@ -5,7 +5,7 @@ $meta_description = "";
 ?>
 <?php include 'header.php'; ?>
 <!-- ================= PAGE: VENUE & GENERAL INFORMATION ================= -->
-<section class="hongkong-venue-page">
+<section class="japan-venue-page">
 
     <!-- Hero Banner & Breadcrumbs -->
     <div class="hk-venue-hero">
@@ -18,7 +18,7 @@ $meta_description = "";
                 <h1>Venue & General Information</h1>
 
                 <p>
-                    Discover Hong Kong's vibrant culture, distinctive cuisine,
+                    Discover Japan's vibrant culture, distinctive cuisine,
                     and convenient international travel experience.
                 </p>
 
@@ -45,7 +45,7 @@ $meta_description = "";
                 <h2>General <span>Information</span></h2>
                 <p>
                     Essential information to help conference attendees prepare
-                    for their visit to Hong Kong.
+                    for their visit to Japan.
                 </p>
             </div>
 
@@ -63,11 +63,11 @@ $meta_description = "";
                             <h3>Currency</h3>
 
                             <p>
-                                The official currency of Hong Kong is the
-                                <strong>Hong Kong Dollar (HKD, HK$)</strong>.
+                                The official currency of Japan is the
+                                <strong>Japan Dollar (HKD, HK$)</strong>.
                                 Credit and debit cards are widely accepted at
                                 hotels, restaurants, shopping malls, and many
-                                retail outlets. Octopus cards and contactless
+                                retail outlets. IC transportation cards such as Suica and PASMO and contactless
                                 payment options are also commonly used for public
                                 transportation and everyday purchases. It is
                                 advisable to carry a small amount of cash for
@@ -89,14 +89,13 @@ $meta_description = "";
                             <h3>Language</h3>
 
                             <p>
-                                <strong>Chinese and English</strong> are the
-                                official languages of Hong Kong. Cantonese is
-                                the most widely spoken language, while English
-                                is commonly used in business, hotels, tourist
-                                areas, and many restaurants. International
-                                conference attendees can generally communicate
-                                comfortably in English at major venues and
-                                transportation hubs.
+                                <strong>Japanese</strong> is the official and most widely spoken language
+                                in Japan. English is commonly understood in major
+                                international hotels, airports, tourist destinations,
+                                and business districts, although proficiency can vary
+                                in smaller cities and local establishments. Major
+                                railway stations and public transportation systems
+                                often provide English signage and announcements.
                             </p>
                         </div>
                     </article>
@@ -106,27 +105,27 @@ $meta_description = "";
         </div>
     </div>
 
-    <!-- Hong Kong Destination Image -->
+    <!-- Japan Destination Image -->
     <div class="hk-destination-section">
         <div class="container">
             <div class="hk-destination-card">
 
                 <div class="hk-destination-image">
                     <img
-                        src="https://images.unsplash.com/photo-1536599018102-9f803c140fc1?auto=format&fit=crop&w=1400&q=85"
-                        alt="Hong Kong skyline and Victoria Harbour"
+                        src="https://images.unsplash.com/photo-1493976040374-85c8e12f0c0e?auto=format&fit=crop&w=1400&q=85"
+                        alt="Japan skyline and Victoria Harbour"
                         loading="lazy">
 
                     <span class="hk-image-tag">
                         <i class="fa-solid fa-location-dot"></i>
-                        Hong Kong
+                        Japan
                     </span>
                 </div>
 
                 <div class="hk-destination-content">
                     <span class="hk-section-label">YOUR CONFERENCE DESTINATION</span>
 
-                    <h2>A Global City of <span>Culture & Innovation</span></h2>
+                    <h2>A Land of <span>Tradition & Innovation</span></h2>
 
                     <p>
                         Experience a dynamic international destination where
@@ -137,17 +136,17 @@ $meta_description = "";
                     <div class="hk-destination-points">
                         <div>
                             <i class="fa-solid fa-globe"></i>
-                            <span>International Destination</span>
+                            <span>International Business & Technology Hub</span>
                         </div>
 
                         <div>
                             <i class="fa-solid fa-utensils"></i>
-                            <span>Distinctive Culinary Culture</span>
+                            <span>Rich Cultural Heritage</span>
                         </div>
 
                         <div>
                             <i class="fa-solid fa-language"></i>
-                            <span>English Widely Used in Business</span>
+                            <span>Distinctive Japanese Culinary Traditions</span>
                         </div>
                     </div>
                 </div>
@@ -165,11 +164,11 @@ $meta_description = "";
                 <h2>Local <span>Cuisine</span></h2>
 
                 <p>
-                    Hong Kong offers a vibrant culinary scene influenced by
-                    <strong>traditional Cantonese cuisine and international flavours</strong>.
-                    From famous dim sum restaurants and street-food stalls to
-                    fine-dining establishments, conference attendees can
-                    experience a wide range of local dishes throughout the city.
+                    Japan offers a vibrant culinary scene influenced by
+                    <strong>traditional Japanese cooking techniques, seasonal ingredients, and regional specialities</strong>.
+                    From sushi restaurants and traditional ramen shops to street-food markets
+                    and fine-dining establishments, conference attendees can discover
+                    a remarkable variety of authentic Japanese dishes throughout the country.
                 </p>
             </div>
 
@@ -179,14 +178,14 @@ $meta_description = "";
                 <div class="col-md-6 col-lg-4">
                     <figure class="hk-food-image">
                         <img
-                            src="https://images.unsplash.com/photo-1563245372-f21724e3856d?auto=format&fit=crop&w=900&q=85"
-                            alt="Chinese dumplings and dim sum"
+                            src="https://images.unsplash.com/photo-1579871494447-9811cf80d66c?auto=format&fit=crop&w=900&q=85"
+                            alt="Traditional Japanese sushi"
                             loading="lazy">
                         <figcaption>
                             <span>01</span>
                             <div>
-                                <h3>Dim Sum</h3>
-                                <p>Traditional Cantonese favourites</p>
+                                <h3>Sushi</h3>
+                                <p>Fresh seafood and carefully prepared vinegared rice</p>
                             </div>
                         </figcaption>
                     </figure>
@@ -195,14 +194,14 @@ $meta_description = "";
                 <div class="col-md-6 col-lg-4">
                     <figure class="hk-food-image">
                         <img
-                            src="https://images.unsplash.com/photo-1544025162-d76694265947?auto=format&fit=crop&w=900&q=85"
-                            alt="Roasted meat served with accompaniments"
+                            src="https://images.unsplash.com/photo-1615361200141-f45040f367be?auto=format&fit=crop&w=900&q=85"
+                            alt="Japanese ramen noodles"
                             loading="lazy">
                         <figcaption>
                             <span>02</span>
                             <div>
-                                <h3>Roast Specialties</h3>
-                                <p>Classic Cantonese flavours</p>
+                                <h3>Ramen</h3>
+                                <p>Japanese noodle soup with rich and flavourful broth</p>
                             </div>
                         </figcaption>
                     </figure>
@@ -211,14 +210,14 @@ $meta_description = "";
                 <div class="col-md-6 col-lg-4">
                     <figure class="hk-food-image">
                         <img
-                            src="https://images.unsplash.com/photo-1569718212165-3a8278d5f624?auto=format&fit=crop&w=900&q=85"
-                            alt="Asian noodle soup"
+                            src="https://images.unsplash.com/photo-1615361200141-f45040f367be?auto=format&fit=crop&w=900&q=85"
+                            alt="Japanese tempura"
                             loading="lazy">
                         <figcaption>
                             <span>03</span>
                             <div>
-                                <h3>Wonton Noodles</h3>
-                                <p>A comforting noodle classic</p>
+                                <h3>Tempura</h3>
+                                <p>Lightly battered and delicately fried seafood and vegetables</p>
                             </div>
                         </figcaption>
                     </figure>
@@ -229,14 +228,14 @@ $meta_description = "";
         </div>
     </div>
 
-    <!-- Signature Hong Kong Dishes -->
+    <!-- Signature Japan Dishes -->
     <div class="hk-dishes-section">
         <div class="container">
 
             <div class="hk-subsection-heading">
                 <div>
                     <span class="hk-section-label">TASTE OF HONG KONG</span>
-                    <h2>Signature <span>Hong Kong Dishes</span></h2>
+                    <h2>Signature <span>Japan Dishes</span></h2>
                 </div>
                 <span class="hk-heading-decoration">
                     <i class="fa-solid fa-bowl-food"></i>
@@ -251,11 +250,11 @@ $meta_description = "";
                             <i class="fa-solid fa-utensils"></i>
                         </span>
                         <div>
-                            <h3>Dim Sum</h3>
+                            <h3>Sushi</h3>
                             <p>
-                                A variety of bite-sized dishes, including steamed
-                                dumplings, buns, and rice rolls, traditionally
-                                enjoyed with tea.
+                                A traditional Japanese dish featuring vinegared rice accompanied
+                                by fresh seafood, vegetables, and other carefully
+                                selected ingredients.
                             </p>
                         </div>
                     </article>
@@ -267,10 +266,10 @@ $meta_description = "";
                             <i class="fa-solid fa-fire-burner"></i>
                         </span>
                         <div>
-                            <h3>Roast Goose</h3>
+                            <h3>Ramen</h3>
                             <p>
-                                A Cantonese specialty featuring crispy skin and
-                                tender, flavourful meat.
+                                A popular noodle soup served with flavourful broth, noodles,
+                                meat, vegetables, and a variety of toppings.
                             </p>
                         </div>
                     </article>
@@ -282,10 +281,10 @@ $meta_description = "";
                             <i class="fa-solid fa-bowl-rice"></i>
                         </span>
                         <div>
-                            <h3>Wonton Noodles</h3>
+                            <h3>Tempura</h3>
                             <p>
-                                A classic noodle soup served with delicate
-                                dumplings, often filled with shrimp.
+                                Seafood and vegetables coated in a light batter and deep-fried
+                                until crisp and golden.
                             </p>
                         </div>
                     </article>
@@ -297,10 +296,10 @@ $meta_description = "";
                             <i class="fa-solid fa-drumstick-bite"></i>
                         </span>
                         <div>
-                            <h3>Char Siu</h3>
+                            <h3>Yakitori</h3>
                             <p>
-                                Cantonese-style barbecued pork coated in a
-                                sweet and savoury glaze.
+                                Japanese-style grilled chicken skewers, seasoned with salt
+                                or a savoury soy-based glaze.
                             </p>
                         </div>
                     </article>
@@ -312,10 +311,10 @@ $meta_description = "";
                             <i class="fa-solid fa-cookie-bite"></i>
                         </span>
                         <div>
-                            <h3>Hong Kong Egg Tarts</h3>
+                            <h3>Japan Egg Tarts</h3>
                             <p>
-                                Popular pastries featuring a flaky crust and
-                                smooth egg custard.
+                                A savoury Japanese pancake prepared with cabbage, flour,
+                                eggs, and a selection of additional ingredients.
                             </p>
                         </div>
                     </article>
@@ -327,10 +326,10 @@ $meta_description = "";
                             <i class="fa-solid fa-bread-slice"></i>
                         </span>
                         <div>
-                            <h3>Pineapple Bun</h3>
+                            <h3>Mochi</h3>
                             <p>
-                                A local bakery favourite with a sweet,
-                                crunchy topping.
+                                A traditional Japanese rice cake made from glutinous rice,
+                                enjoyed in sweet and savoury varieties.
                             </p>
                         </div>
                     </article>
@@ -357,7 +356,7 @@ $meta_description = "";
                             <i class="fa-solid fa-champagne-glasses"></i>
                             <div>
                                 <strong>Traditional & Cultural Influences</strong>
-                                <span>Explore the flavours of Hong Kong</span>
+                                <span>Explore the flavours of Japan</span>
                             </div>
                         </div>
                     </div>
@@ -371,8 +370,9 @@ $meta_description = "";
                     </h2>
 
                     <p class="hk-culture-intro">
-                        Discover local culinary traditions alongside the diverse
-                        international food culture found throughout Hong Kong.
+                        Discover Japan's distinctive culinary traditions, regional specialities,
+                        and the cultural influences that have shaped its internationally
+                        recognised food culture.
                     </p>
 
                     <div class="hk-culture-list">
@@ -382,10 +382,11 @@ $meta_description = "";
                                 <i class="fa-solid fa-fish"></i>
                             </span>
                             <div>
-                                <h3>Cantonese Seafood</h3>
+                                <h3>Japanese Tea Culture</h3>
                                 <p>
-                                    Fresh seafood prepared through steaming,
-                                    stir-frying, and other traditional cooking methods.
+                                    Experience traditional Japanese green tea, including matcha,
+                                    which plays an important role in Japanese hospitality
+                                    and cultural ceremonies.
                                 </p>
                             </div>
                         </div>
@@ -395,10 +396,10 @@ $meta_description = "";
                                 <i class="fa-solid fa-mug-hot"></i>
                             </span>
                             <div>
-                                <h3>Hong Kong Milk Tea</h3>
+                                <h3>Japan Milk Tea</h3>
                                 <p>
-                                    A distinctive, strong tea blended with milk,
-                                    widely enjoyed by locals.
+                                    A traditional Japanese soup prepared with fermented soybean paste,
+                                    often served with tofu, seaweed, and seasonal ingredients.
                                 </p>
                             </div>
                         </div>
@@ -408,10 +409,10 @@ $meta_description = "";
                                 <i class="fa-solid fa-bowl-rice"></i>
                             </span>
                             <div>
-                                <h3>Clay Pot Rice</h3>
+                                <h3>Udon & Soba</h3>
                                 <p>
-                                    Rice cooked in a clay pot with meats,
-                                    vegetables, and savoury sauces.
+                                    Traditional Japanese noodles made from wheat or buckwheat,
+                                    served hot in broth or chilled with dipping sauces.
                                 </p>
                             </div>
                         </div>
@@ -423,8 +424,8 @@ $meta_description = "";
                             <div>
                                 <h3>Street Food</h3>
                                 <p>
-                                    Local favourites such as curry fish balls,
-                                    egg waffles, and siu mai.
+                                    Discover popular local favourites such as takoyaki, yakisoba,
+                                    taiyaki, and Japanese-style grilled snacks.
                                 </p>
                             </div>
                         </div>
@@ -436,9 +437,9 @@ $meta_description = "";
                             <div>
                                 <h3>International Cuisine</h3>
                                 <p>
-                                    A wide selection of Japanese, Korean, Indian,
-                                    Italian, and other international dishes is
-                                    available across Hong Kong.
+                                    Japan offers an extensive selection of international dining experiences,
+                                    including Italian, French, Indian, Korean, Chinese,
+                                    and other global cuisines, particularly in major cities.
                                 </p>
                             </div>
                         </div>
@@ -458,11 +459,12 @@ $meta_description = "";
                     <i class="fa-solid fa-location-dot"></i>
                 </span>
 
-                <h2>Experience Hong Kong</h2>
+                <h2>Experience Japan</h2>
 
                 <p>
-                    Make the most of your conference visit by discovering the
-                    city's culture, culinary traditions, and international atmosphere.
+                    Make the most of your conference visit by discovering Japan's rich
+                    cultural heritage, exceptional culinary traditions, technological
+                    innovation, and welcoming international atmosphere.
                 </p>
             </div>
         </div>
@@ -473,12 +475,12 @@ $meta_description = "";
 
 <style>
 /* ==========================================================
-   HONG KONG VENUE PAGE
+   JAPAN VENUE PAGE
    Bootstrap 5 compatible
-   All styles scoped to .hongkong-venue-page
+   All styles scoped to .japan-venue-page
 ========================================================== */
 
-.hongkong-venue-page {
+.japan-venue-page {
     --hk-navy: #071a30;
     --hk-navy-light: #102e4d;
     --hk-blue: #1476d4;
@@ -490,19 +492,19 @@ $meta_description = "";
     overflow: hidden;
 }
 
-.hongkong-venue-page *,
-.hongkong-venue-page *::before,
-.hongkong-venue-page *::after {
+.japan-venue-page *,
+.japan-venue-page *::before,
+.japan-venue-page *::after {
     box-sizing: border-box;
 }
 
-.hongkong-venue-page img {
+.japan-venue-page img {
     max-width: 100%;
 }
 
 /* HERO */
 
-.hongkong-venue-page .hk-venue-hero {
+.japan-venue-page .hk-venue-hero {
     position: relative;
     display: flex;
     align-items: center;
@@ -510,18 +512,18 @@ $meta_description = "";
     padding: 75px 0;
     background:
         linear-gradient(105deg, rgba(5, 19, 37, .94), rgba(8, 42, 72, .79)),
-        url("https://images.unsplash.com/photo-1536599018102-9f803c140fc1?auto=format&fit=crop&w=2000&q=85")
+        url("https://images.unsplash.com/photo-1493976040374-85c8e12f0c0e?auto=format&fit=crop&w=2000&q=85")
         center 45% / cover no-repeat;
 }
 
-.hongkong-venue-page .hk-hero-content {
+.japan-venue-page .hk-hero-content {
     position: relative;
     z-index: 1;
     max-width: 800px;
 }
 
-.hongkong-venue-page .hk-eyebrow,
-.hongkong-venue-page .hk-section-label {
+.japan-venue-page .hk-eyebrow,
+.japan-venue-page .hk-section-label {
     display: inline-block;
     font-size: 11px;
     font-weight: 800;
@@ -531,12 +533,12 @@ $meta_description = "";
     color: var(--hk-blue);
 }
 
-.hongkong-venue-page .hk-eyebrow {
+.japan-venue-page .hk-eyebrow {
     color: var(--hk-cyan);
     margin-bottom: 14px;
 }
 
-.hongkong-venue-page .hk-venue-hero h1 {
+.japan-venue-page .hk-venue-hero h1 {
     color: #fff;
     font-size: clamp(34px, 5vw, 54px);
     font-weight: 800;
@@ -545,7 +547,7 @@ $meta_description = "";
     margin: 0 0 18px;
 }
 
-.hongkong-venue-page .hk-hero-content > p {
+.japan-venue-page .hk-hero-content > p {
     max-width: 650px;
     color: #d5e1ec;
     font-size: 15px;
@@ -553,41 +555,41 @@ $meta_description = "";
     margin: 0 0 25px;
 }
 
-.hongkong-venue-page .hk-breadcrumb {
+.japan-venue-page .hk-breadcrumb {
     padding: 0;
     margin: 0;
     background: transparent;
 }
 
-.hongkong-venue-page .hk-breadcrumb .breadcrumb-item,
-.hongkong-venue-page .hk-breadcrumb .breadcrumb-item.active {
+.japan-venue-page .hk-breadcrumb .breadcrumb-item,
+.japan-venue-page .hk-breadcrumb .breadcrumb-item.active {
     color: #c8d7e5;
     font-size: 13px;
 }
 
-.hongkong-venue-page .hk-breadcrumb a {
+.japan-venue-page .hk-breadcrumb a {
     color: var(--hk-cyan);
     text-decoration: none;
 }
 
-.hongkong-venue-page .hk-breadcrumb a:hover {
+.japan-venue-page .hk-breadcrumb a:hover {
     color: #fff;
 }
 
-.hongkong-venue-page .hk-breadcrumb .breadcrumb-item + .breadcrumb-item::before {
+.japan-venue-page .hk-breadcrumb .breadcrumb-item + .breadcrumb-item::before {
     color: #8ea3b8;
 }
 
 /* SECTION HEADINGS */
 
-.hongkong-venue-page .hk-section-heading {
+.japan-venue-page .hk-section-heading {
     max-width: 790px;
     margin: 0 auto 45px;
     text-align: center;
 }
 
-.hongkong-venue-page .hk-section-heading h2,
-.hongkong-venue-page .hk-culture-title {
+.japan-venue-page .hk-section-heading h2,
+.japan-venue-page .hk-culture-title {
     color: var(--hk-heading);
     font-size: clamp(28px, 3.5vw, 39px);
     font-weight: 800;
@@ -596,14 +598,14 @@ $meta_description = "";
     margin: 12px 0 17px;
 }
 
-.hongkong-venue-page .hk-section-heading h2 span,
-.hongkong-venue-page .hk-culture-title span {
+.japan-venue-page .hk-section-heading h2 span,
+.japan-venue-page .hk-culture-title span {
     color: var(--hk-blue);
 }
 
-.hongkong-venue-page .hk-section-heading > p,
-.hongkong-venue-page .hk-destination-content > p,
-.hongkong-venue-page .hk-culture-intro {
+.japan-venue-page .hk-section-heading > p,
+.japan-venue-page .hk-destination-content > p,
+.japan-venue-page .hk-culture-intro {
     font-size: 14px;
     line-height: 1.9;
     margin-bottom: 0;
@@ -611,12 +613,12 @@ $meta_description = "";
 
 /* GENERAL INFORMATION */
 
-.hongkong-venue-page .hk-general-section {
+.japan-venue-page .hk-general-section {
     padding: 80px 0;
     background: #fff;
 }
 
-.hongkong-venue-page .hk-info-card {
+.japan-venue-page .hk-info-card {
     display: flex;
     align-items: flex-start;
     gap: 22px;
@@ -629,12 +631,12 @@ $meta_description = "";
     transition: transform .3s ease, box-shadow .3s ease;
 }
 
-.hongkong-venue-page .hk-info-card:hover {
+.japan-venue-page .hk-info-card:hover {
     transform: translateY(-5px);
     box-shadow: 0 17px 40px rgba(7, 26, 48, .09);
 }
 
-.hongkong-venue-page .hk-info-icon {
+.japan-venue-page .hk-info-icon {
     display: grid;
     place-items: center;
     flex: 0 0 58px;
@@ -647,43 +649,43 @@ $meta_description = "";
     font-size: 23px;
 }
 
-.hongkong-venue-page .hk-info-content {
+.japan-venue-page .hk-info-content {
     min-width: 0;
 }
 
-.hongkong-venue-page .hk-card-number {
+.japan-venue-page .hk-card-number {
     color: #8b9bad;
     font-size: 10px;
     font-weight: 800;
     letter-spacing: 1.4px;
 }
 
-.hongkong-venue-page .hk-info-content h3 {
+.japan-venue-page .hk-info-content h3 {
     color: var(--hk-heading);
     font-size: 23px;
     font-weight: 800;
     margin: 9px 0 13px;
 }
 
-.hongkong-venue-page .hk-info-content p {
+.japan-venue-page .hk-info-content p {
     color: var(--hk-text);
     font-size: 13px;
     line-height: 1.95;
     margin: 0;
 }
 
-.hongkong-venue-page .hk-info-content strong {
+.japan-venue-page .hk-info-content strong {
     color: var(--hk-heading);
 }
 
 /* DESTINATION */
 
-.hongkong-venue-page .hk-destination-section {
+.japan-venue-page .hk-destination-section {
     padding: 15px 0 85px;
     background: #fff;
 }
 
-.hongkong-venue-page .hk-destination-card {
+.japan-venue-page .hk-destination-card {
     display: grid;
     grid-template-columns: 1fr 1fr;
     overflow: hidden;
@@ -692,13 +694,13 @@ $meta_description = "";
     border-radius: 22px;
 }
 
-.hongkong-venue-page .hk-destination-image {
+.japan-venue-page .hk-destination-image {
     position: relative;
     min-height: 390px;
     overflow: hidden;
 }
 
-.hongkong-venue-page .hk-destination-image img {
+.japan-venue-page .hk-destination-image img {
     display: block;
     width: 100%;
     height: 100%;
@@ -707,11 +709,11 @@ $meta_description = "";
     transition: transform .6s ease;
 }
 
-.hongkong-venue-page .hk-destination-card:hover .hk-destination-image img {
+.japan-venue-page .hk-destination-card:hover .hk-destination-image img {
     transform: scale(1.04);
 }
 
-.hongkong-venue-page .hk-image-tag {
+.japan-venue-page .hk-image-tag {
     position: absolute;
     bottom: 20px;
     left: 20px;
@@ -727,16 +729,16 @@ $meta_description = "";
     font-weight: 700;
 }
 
-.hongkong-venue-page .hk-image-tag i {
+.japan-venue-page .hk-image-tag i {
     color: var(--hk-cyan);
 }
 
-.hongkong-venue-page .hk-destination-content {
+.japan-venue-page .hk-destination-content {
     align-self: center;
     padding: 40px;
 }
 
-.hongkong-venue-page .hk-destination-content h2 {
+.japan-venue-page .hk-destination-content h2 {
     color: var(--hk-heading);
     font-size: clamp(25px, 3vw, 35px);
     font-weight: 800;
@@ -745,17 +747,17 @@ $meta_description = "";
     margin: 12px 0 16px;
 }
 
-.hongkong-venue-page .hk-destination-content h2 span {
+.japan-venue-page .hk-destination-content h2 span {
     color: var(--hk-blue);
 }
 
-.hongkong-venue-page .hk-destination-points {
+.japan-venue-page .hk-destination-points {
     display: grid;
     gap: 14px;
     margin-top: 26px;
 }
 
-.hongkong-venue-page .hk-destination-points > div {
+.japan-venue-page .hk-destination-points > div {
     display: flex;
     align-items: center;
     gap: 12px;
@@ -764,7 +766,7 @@ $meta_description = "";
     font-weight: 700;
 }
 
-.hongkong-venue-page .hk-destination-points i {
+.japan-venue-page .hk-destination-points i {
     display: grid;
     place-items: center;
     flex: 0 0 34px;
@@ -777,16 +779,16 @@ $meta_description = "";
 
 /* CUISINE */
 
-.hongkong-venue-page .hk-cuisine-section {
+.japan-venue-page .hk-cuisine-section {
     padding: 85px 0;
     background: var(--hk-light);
 }
 
-.hongkong-venue-page .hk-cuisine-section .hk-section-heading {
+.japan-venue-page .hk-cuisine-section .hk-section-heading {
     margin-bottom: 38px;
 }
 
-.hongkong-venue-page .hk-food-image {
+.japan-venue-page .hk-food-image {
     position: relative;
     height: 100%;
     min-height: 280px;
@@ -797,7 +799,7 @@ $meta_description = "";
     box-shadow: 0 12px 30px rgba(7, 26, 48, .08);
 }
 
-.hongkong-venue-page .hk-food-image::after {
+.japan-venue-page .hk-food-image::after {
     content: "";
     position: absolute;
     inset: 0;
@@ -809,7 +811,7 @@ $meta_description = "";
     pointer-events: none;
 }
 
-.hongkong-venue-page .hk-food-image img {
+.japan-venue-page .hk-food-image img {
     display: block;
     width: 100%;
     height: 300px;
@@ -817,11 +819,11 @@ $meta_description = "";
     transition: transform .6s ease;
 }
 
-.hongkong-venue-page .hk-food-image:hover img {
+.japan-venue-page .hk-food-image:hover img {
     transform: scale(1.07);
 }
 
-.hongkong-venue-page .hk-food-image figcaption {
+.japan-venue-page .hk-food-image figcaption {
     position: absolute;
     z-index: 1;
     right: 20px;
@@ -833,20 +835,20 @@ $meta_description = "";
     color: #fff;
 }
 
-.hongkong-venue-page .hk-food-image figcaption > span {
+.japan-venue-page .hk-food-image figcaption > span {
     color: var(--hk-cyan);
     font-size: 29px;
     font-weight: 800;
 }
 
-.hongkong-venue-page .hk-food-image h3 {
+.japan-venue-page .hk-food-image h3 {
     color: #fff;
     font-size: 19px;
     font-weight: 800;
     margin: 0 0 5px;
 }
 
-.hongkong-venue-page .hk-food-image figcaption p {
+.japan-venue-page .hk-food-image figcaption p {
     color: #d4dfeb;
     font-size: 11px;
     margin: 0;
@@ -854,12 +856,12 @@ $meta_description = "";
 
 /* SIGNATURE DISHES */
 
-.hongkong-venue-page .hk-dishes-section {
+.japan-venue-page .hk-dishes-section {
     padding: 85px 0;
     background: #fff;
 }
 
-.hongkong-venue-page .hk-subsection-heading {
+.japan-venue-page .hk-subsection-heading {
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -867,7 +869,7 @@ $meta_description = "";
     margin-bottom: 35px;
 }
 
-.hongkong-venue-page .hk-subsection-heading h2 {
+.japan-venue-page .hk-subsection-heading h2 {
     color: var(--hk-heading);
     font-size: clamp(26px, 3vw, 36px);
     font-weight: 800;
@@ -876,11 +878,11 @@ $meta_description = "";
     margin: 10px 0 0;
 }
 
-.hongkong-venue-page .hk-subsection-heading h2 span {
+.japan-venue-page .hk-subsection-heading h2 span {
     color: var(--hk-blue);
 }
 
-.hongkong-venue-page .hk-heading-decoration {
+.japan-venue-page .hk-heading-decoration {
     display: grid;
     place-items: center;
     flex: 0 0 65px;
@@ -892,7 +894,7 @@ $meta_description = "";
     font-size: 28px;
 }
 
-.hongkong-venue-page .hk-dish-card {
+.japan-venue-page .hk-dish-card {
     display: flex;
     align-items: flex-start;
     gap: 16px;
@@ -904,13 +906,13 @@ $meta_description = "";
     transition: border-color .3s ease, transform .3s ease, box-shadow .3s ease;
 }
 
-.hongkong-venue-page .hk-dish-card:hover {
+.japan-venue-page .hk-dish-card:hover {
     transform: translateY(-4px);
     border-color: #c5def5;
     box-shadow: 0 12px 28px rgba(7, 26, 48, .06);
 }
 
-.hongkong-venue-page .hk-dish-icon {
+.japan-venue-page .hk-dish-icon {
     display: grid;
     place-items: center;
     flex: 0 0 43px;
@@ -922,7 +924,7 @@ $meta_description = "";
     font-size: 17px;
 }
 
-.hongkong-venue-page .hk-dish-card h3 {
+.japan-venue-page .hk-dish-card h3 {
     color: var(--hk-heading);
     font-size: 16px;
     font-weight: 800;
@@ -930,7 +932,7 @@ $meta_description = "";
     margin: 0 0 8px;
 }
 
-.hongkong-venue-page .hk-dish-card p {
+.japan-venue-page .hk-dish-card p {
     color: var(--hk-text);
     font-size: 12px;
     line-height: 1.85;
@@ -939,12 +941,12 @@ $meta_description = "";
 
 /* TRADITIONAL & CULTURAL INFLUENCES */
 
-.hongkong-venue-page .hk-culture-section {
+.japan-venue-page .hk-culture-section {
     padding: 85px 0;
     background: var(--hk-light);
 }
 
-.hongkong-venue-page .hk-culture-image {
+.japan-venue-page .hk-culture-image {
     position: relative;
     overflow: hidden;
     min-height: 540px;
@@ -953,7 +955,7 @@ $meta_description = "";
     box-shadow: 0 15px 38px rgba(7, 26, 48, .1);
 }
 
-.hongkong-venue-page .hk-culture-image > img {
+.japan-venue-page .hk-culture-image > img {
     display: block;
     width: 100%;
     height: 540px;
@@ -961,11 +963,11 @@ $meta_description = "";
     transition: transform .6s ease;
 }
 
-.hongkong-venue-page .hk-culture-image:hover > img {
+.japan-venue-page .hk-culture-image:hover > img {
     transform: scale(1.04);
 }
 
-.hongkong-venue-page .hk-culture-image-caption {
+.japan-venue-page .hk-culture-image-caption {
     position: absolute;
     right: 16px;
     bottom: 16px;
@@ -980,7 +982,7 @@ $meta_description = "";
     border-radius: 12px;
 }
 
-.hongkong-venue-page .hk-culture-image-caption > i {
+.japan-venue-page .hk-culture-image-caption > i {
     display: grid;
     place-items: center;
     flex: 0 0 42px;
@@ -992,36 +994,36 @@ $meta_description = "";
     font-size: 18px;
 }
 
-.hongkong-venue-page .hk-culture-image-caption strong,
-.hongkong-venue-page .hk-culture-image-caption span {
+.japan-venue-page .hk-culture-image-caption strong,
+.japan-venue-page .hk-culture-image-caption span {
     display: block;
 }
 
-.hongkong-venue-page .hk-culture-image-caption strong {
+.japan-venue-page .hk-culture-image-caption strong {
     color: #fff;
     font-size: 12px;
     margin-bottom: 5px;
 }
 
-.hongkong-venue-page .hk-culture-image-caption span {
+.japan-venue-page .hk-culture-image-caption span {
     color: #c7d7e6;
     font-size: 10px;
 }
 
-.hongkong-venue-page .hk-culture-title {
+.japan-venue-page .hk-culture-title {
     margin-top: 12px;
 }
 
-.hongkong-venue-page .hk-culture-intro {
+.japan-venue-page .hk-culture-intro {
     margin-bottom: 25px;
 }
 
-.hongkong-venue-page .hk-culture-list {
+.japan-venue-page .hk-culture-list {
     display: grid;
     gap: 0;
 }
 
-.hongkong-venue-page .hk-culture-item {
+.japan-venue-page .hk-culture-item {
     display: flex;
     align-items: flex-start;
     gap: 15px;
@@ -1029,11 +1031,11 @@ $meta_description = "";
     border-bottom: 1px solid #e0e8f0;
 }
 
-.hongkong-venue-page .hk-culture-item:last-child {
+.japan-venue-page .hk-culture-item:last-child {
     border-bottom: 0;
 }
 
-.hongkong-venue-page .hk-culture-item-icon {
+.japan-venue-page .hk-culture-item-icon {
     display: grid;
     place-items: center;
     flex: 0 0 42px;
@@ -1045,14 +1047,14 @@ $meta_description = "";
     font-size: 17px;
 }
 
-.hongkong-venue-page .hk-culture-item h3 {
+.japan-venue-page .hk-culture-item h3 {
     color: var(--hk-heading);
     font-size: 15px;
     font-weight: 800;
     margin: 1px 0 6px;
 }
 
-.hongkong-venue-page .hk-culture-item p {
+.japan-venue-page .hk-culture-item p {
     color: var(--hk-text);
     font-size: 12px;
     line-height: 1.85;
@@ -1061,7 +1063,7 @@ $meta_description = "";
 
 /* CLOSING BANNER */
 
-.hongkong-venue-page .hk-venue-closing {
+.japan-venue-page .hk-venue-closing {
     padding: 70px 0;
     color: #d0deeb;
     background:
@@ -1069,13 +1071,13 @@ $meta_description = "";
         linear-gradient(125deg, #071a30, #103657);
 }
 
-.hongkong-venue-page .hk-closing-inner {
+.japan-venue-page .hk-closing-inner {
     max-width: 760px;
     margin: 0 auto;
     text-align: center;
 }
 
-.hongkong-venue-page .hk-closing-icon {
+.japan-venue-page .hk-closing-icon {
     display: grid;
     place-items: center;
     width: 62px;
@@ -1088,7 +1090,7 @@ $meta_description = "";
     font-size: 25px;
 }
 
-.hongkong-venue-page .hk-closing-inner h2 {
+.japan-venue-page .hk-closing-inner h2 {
     color: #fff;
     font-size: clamp(28px, 4vw, 40px);
     font-weight: 800;
@@ -1096,7 +1098,7 @@ $meta_description = "";
     margin: 0 0 15px;
 }
 
-.hongkong-venue-page .hk-closing-inner p {
+.japan-venue-page .hk-closing-inner p {
     color: #c8d8e7;
     font-size: 14px;
     line-height: 1.9;
@@ -1106,116 +1108,116 @@ $meta_description = "";
 /* RESPONSIVE */
 
 @media (max-width: 991.98px) {
-    .hongkong-venue-page .hk-info-card {
+    .japan-venue-page .hk-info-card {
         padding: 25px;
     }
 
-    .hongkong-venue-page .hk-destination-card {
+    .japan-venue-page .hk-destination-card {
         grid-template-columns: 1fr;
     }
 
-    .hongkong-venue-page .hk-destination-image,
-    .hongkong-venue-page .hk-destination-image img {
+    .japan-venue-page .hk-destination-image,
+    .japan-venue-page .hk-destination-image img {
         min-height: 330px;
         height: 330px;
     }
 
-    .hongkong-venue-page .hk-destination-content {
+    .japan-venue-page .hk-destination-content {
         padding: 32px;
     }
 
-    .hongkong-venue-page .hk-culture-image,
-    .hongkong-venue-page .hk-culture-image > img {
+    .japan-venue-page .hk-culture-image,
+    .japan-venue-page .hk-culture-image > img {
         min-height: 400px;
         height: 400px;
     }
 }
 
 @media (max-width: 575.98px) {
-    .hongkong-venue-page .hk-venue-hero {
+    .japan-venue-page .hk-venue-hero {
         min-height: 300px;
         padding: 55px 0;
     }
 
-    .hongkong-venue-page .hk-venue-hero h1 {
+    .japan-venue-page .hk-venue-hero h1 {
         letter-spacing: -.6px;
     }
 
-    .hongkong-venue-page .hk-hero-content > p {
+    .japan-venue-page .hk-hero-content > p {
         font-size: 13px;
     }
 
-    .hongkong-venue-page .hk-general-section,
-    .hongkong-venue-page .hk-cuisine-section,
-    .hongkong-venue-page .hk-dishes-section,
-    .hongkong-venue-page .hk-culture-section {
+    .japan-venue-page .hk-general-section,
+    .japan-venue-page .hk-cuisine-section,
+    .japan-venue-page .hk-dishes-section,
+    .japan-venue-page .hk-culture-section {
         padding: 50px 0;
     }
 
-    .hongkong-venue-page .hk-section-heading {
+    .japan-venue-page .hk-section-heading {
         margin-bottom: 30px;
     }
 
-    .hongkong-venue-page .hk-info-card {
+    .japan-venue-page .hk-info-card {
         flex-direction: column;
         gap: 17px;
         padding: 23px;
     }
 
-    .hongkong-venue-page .hk-info-content h3 {
+    .japan-venue-page .hk-info-content h3 {
         font-size: 21px;
     }
 
-    .hongkong-venue-page .hk-destination-section {
+    .japan-venue-page .hk-destination-section {
         padding: 0 0 50px;
     }
 
-    .hongkong-venue-page .hk-destination-image,
-    .hongkong-venue-page .hk-destination-image img {
+    .japan-venue-page .hk-destination-image,
+    .japan-venue-page .hk-destination-image img {
         min-height: 260px;
         height: 260px;
     }
 
-    .hongkong-venue-page .hk-destination-content {
+    .japan-venue-page .hk-destination-content {
         padding: 25px;
     }
 
-    .hongkong-venue-page .hk-food-image,
-    .hongkong-venue-page .hk-food-image img {
+    .japan-venue-page .hk-food-image,
+    .japan-venue-page .hk-food-image img {
         min-height: 260px;
         height: 260px;
     }
 
-    .hongkong-venue-page .hk-subsection-heading h2 {
+    .japan-venue-page .hk-subsection-heading h2 {
         font-size: 26px;
     }
 
-    .hongkong-venue-page .hk-heading-decoration {
+    .japan-venue-page .hk-heading-decoration {
         flex-basis: 48px;
         width: 48px;
         height: 48px;
         font-size: 21px;
     }
 
-    .hongkong-venue-page .hk-dish-card {
+    .japan-venue-page .hk-dish-card {
         padding: 18px;
     }
 
-    .hongkong-venue-page .hk-culture-image,
-    .hongkong-venue-page .hk-culture-image > img {
+    .japan-venue-page .hk-culture-image,
+    .japan-venue-page .hk-culture-image > img {
         min-height: 320px;
         height: 320px;
     }
 
-    .hongkong-venue-page .hk-venue-closing {
+    .japan-venue-page .hk-venue-closing {
         padding: 50px 0;
     }
 }
 
 @media (prefers-reduced-motion: reduce) {
-    .hongkong-venue-page *,
-    .hongkong-venue-page *::before,
-    .hongkong-venue-page *::after {
+    .japan-venue-page *,
+    .japan-venue-page *::before,
+    .japan-venue-page *::after {
         scroll-behavior: auto !important;
         transition-duration: .01ms !important;
         animation-duration: .01ms !important;
