@@ -190,6 +190,67 @@ $meta_description = "";
 </section>
 
 
+<section class="chair-section py-5">
+    <div class="container">
+
+        <div class="text-center mb-5">
+            <span class="chair-kicker">COMMITTEE</span>
+            <!-- <h2 class="chair-heading">Conference Leadership</h2> -->
+            <p class="text-muted">AI and Lab Automation Conference 2027</p>
+        </div>
+
+        <div class="row g-4 justify-content-center">
+
+          
+
+            <!-- Conference Co-Chair -->
+            <div class="col-lg-6 col-md-6">
+                <div class="chair-profile-card h-100">
+                    <div class="row g-0 align-items-center h-100">
+
+                        <div class="col-md-5">
+                            <div class="chair-image-wrap">
+                                <img src="assets/img/Bong Seop Kwak, Ph.D.jpg"
+                                     alt="Bong Seop Kwak, Ph.D"
+                                     class="chair-image">
+                            </div>
+                        </div>
+
+                        <div class="col-md-7">
+                            <div class="chair-content">
+                                <!-- <span class="chair-label">
+                                    <i class="bi bi-award-fill"></i>
+                                    CONFERENCE CO-CHAIR
+                                </span> -->
+
+                                <h3>Bong Seop Kwak, Ph.D</h3>
+
+                                <div class="chair-divider"></div>
+
+                                <!-- <p class="chair-designation">
+                                    Faculty of Engineering
+                                </p> -->
+
+                                <p class="chair-institution">
+                                    Kyushu Institiute of Technology
+                                </p>
+
+                                <span class="chair-country">
+                                    <i class="bi bi-geo-alt-fill"></i>
+                                    Japan
+                                </span>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</section>
+
+
 <!-- WELCOME -->
 <section class="section-pad section-white" id="welcome">
     <div class="container">
